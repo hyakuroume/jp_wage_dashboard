@@ -1,5 +1,0 @@
-pip install --upgrade pip
-pandas 
-streamlit 
-pydeck 
-plotly
